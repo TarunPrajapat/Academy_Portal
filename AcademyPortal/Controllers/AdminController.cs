@@ -39,7 +39,7 @@ namespace AcademyPortal.Controllers
                 if (status)
                 {
                         TempData["Msg"] = "Your details are submitted successfully  <br/> Your User Id Generated is :" + admin.UserId;
-                        return RedirectToAction("Dashboard");
+                        return RedirectToAction("Login");
                 }               
                 else
                 {

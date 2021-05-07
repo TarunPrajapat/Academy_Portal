@@ -143,12 +143,6 @@
                 </div>
                 <div class="topbar-right">
                     <ul>
-                        <li>
-                            <select class="header-lang-bx">
-                                <option data-icon="flag flag-uk">English UK</option>
-                                <option data-icon="flag flag-us">English US</option>
-                            </select>
-                        </li>
                         @if (User.Identity.IsAuthenticated)
                         {
                             <li>@Html.ActionLink("Logout", "Logout", "Admin")</li>
@@ -180,22 +174,15 @@
                 <div class="secondary-menu">
                     <div class="secondary-inner">
                         <ul>
-                            <li><a href="#" class="btn-link"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#" class="btn-link"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#" class="btn-link"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/" class="btn-link"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://mail.google.com/" class="btn-link"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="https://www.linkedin.com/" class="btn-link"><i class="fa fa-linkedin"></i></a></li>
                             <!-- Search Button ==== -->
                             <li class="search-btn"><button id="quik-search-btn" type="button" class="btn-link"><i class="fa fa-search"></i></button></li>
                         </ul>
                     </div>
                 </div>
                 <!-- Search Box ==== -->
-                <div class="nav-search-bar">
-                    <form action="#">
-                        <input name="search" value="" type="text" class="form-control" placeholder="Type to search">
-                        <span><i class="ti-search"></i></span>
-                    </form>
-                    <span id="search-remove"><i class="ti-close"></i></span>
-                </div>
                 <!-- Navigation Menu ==== -->
                 <div class="menu-links navbar-collapse collapse justify-content-start" id="menuDropdown">
                     <div class="menu-logo">
@@ -206,11 +193,12 @@
                             @Html.ActionLink("Home", "Index", "Home")
                         </li>
                         <li>
-                            <a href="#">About</a>
+                            @Html.ActionLink("About", "About", "Home")
+                            
                         </li>
                                 
                         <li>
-                            <a href="#">Contact Us</a>
+                            @Html.ActionLink("Contact Us", "ContactUs", "Home")
                         </li>
                     </ul>
                     <div class="nav-social-link">
@@ -244,10 +232,9 @@
                     </div>
                     <div class="pt-social-link">
                         <ul class="list-inline m-a0">
-                            <li><a href="#" class="btn-link"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#" class="btn-link"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#" class="btn-link"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#" class="btn-link"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="https://www.facebook.com/" class="btn-link"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://mail.google.com/" class="btn-link"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="https://www.linkedin.com/" class="btn-link"><i class="fa fa-linkedin"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -280,10 +267,16 @@
                             <div class="widget footer_widget">
                                 <h5 class="footer-title">Company</h5>
                                 <ul>
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#">FAQs</a></li>
-                                    <li><a href="#">Contact</a></li>
+                                    <li class="active">
+                                        @Html.ActionLink("Home", "Index", "Home")
+                                    </li>
+                                    <li>
+                                        @Html.ActionLink("About", "About", "Home")
+
+                                    </li>
+                                    <li>
+                                        @Html.ActionLink("Contact Us", "ContactUs", "Home")
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -297,11 +290,15 @@
                                     </li>
                                     <li>
                                         <i class="fa fa-envelope"></i>
-                                        <span>www.medicinemonitorinfo2457@gmail.com www.oursupport/info@gmail.com</span>
+                                        <span>www.academyportal@gmail.com</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-envelope"></i>
+                                        <span>www.oursupport.info@gmail.com</span>
                                     </li>
                                     <li>
                                         <i class="fa fa-phone-square"></i>
-                                        <span>+91-014578541-09 , +91-85424-542-254 +91-47859-4541</span>
+                                        <span>+91-9846576564, +91-9842542254 </span>
                                     </li>
                                 </ul>
                             </div>

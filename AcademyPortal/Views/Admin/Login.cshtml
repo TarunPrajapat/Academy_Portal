@@ -4,8 +4,10 @@
     ViewBag.Title = "Login";
 }
 
-<h2>Admin Login</h2><hr />
+<h1>@Html.Raw(@TempData["Msg"])</h1>
 
+
+<h2>Admin Login</h2><hr />
 
 @using (Html.BeginForm()) 
 {

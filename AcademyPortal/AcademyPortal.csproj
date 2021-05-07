@@ -619,6 +619,8 @@
     <Content Include="Views\Admin\FindUserId.cshtml" />
     <Content Include="Views\Employee\FindUserId.cshtml" />
     <Content Include="Views\Employee\VerifyDetails.cshtml" />
+    <Content Include="Views\Home\About.cshtml" />
+    <Content Include="Views\Home\ContactUs.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
