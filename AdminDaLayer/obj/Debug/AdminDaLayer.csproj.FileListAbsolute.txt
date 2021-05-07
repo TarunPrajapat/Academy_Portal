@@ -1,0 +1,56 @@
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\bin\Debug\AdminDaLayer.dll.config
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\bin\Debug\AdminDaLayer.dll
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\bin\Debug\AdminDaLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\bin\Debug\AdminBoLayer.dll
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\bin\Debug\EntityFramework.dll
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\bin\Debug\AdminBoLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\bin\Debug\EntityFramework.xml
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\obj\Debug\AdminDaLayer.csprojAssemblyReference.cache
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\obj\Debug\AdminDaLayer.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\obj\Debug\AdminDaLayer.csproj.CopyComplete
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\obj\Debug\AdminDaLayer.dll
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\obj\Debug\AdminDaLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\bin\Debug\AdminBoLayer.dll.config
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\obj\Debug\AdminDaLayer.Migrations.help.resources
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\obj\Debug\AdminDaLayer.csproj.GenerateResource.cache
+F:\Visual Studio Projects\AcademyPortal\AdminDaLayer\obj\Debug\AdminDaLayer.Migrations.Update_admin.resources
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\bin\Debug\AdminDaLayer.dll.config
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\bin\Debug\AdminDaLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\bin\Debug\AdminDaLayer.pdb
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\bin\Debug\AdminBoLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\bin\Debug\EntityFramework.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\bin\Debug\AdminBoLayer.pdb
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\bin\Debug\AdminBoLayer.dll.config
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\bin\Debug\EntityFramework.xml
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\obj\Debug\AdminDaLayer.csprojAssemblyReference.cache
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\obj\Debug\AdminDaLayer.Migrations.help.resources
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\obj\Debug\AdminDaLayer.Migrations.Update_admin.resources
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\obj\Debug\AdminDaLayer.csproj.GenerateResource.cache
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\obj\Debug\AdminDaLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\obj\Debug\AdminDaLayer.csproj.CopyComplete
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\obj\Debug\AdminDaLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\obj\Debug\AdminDaLayer.pdb
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminDaLayer\obj\Debug\AdminDaLayer.Migrations.SecurityQuestionAdded.resources
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\bin\Debug\AdminDaLayer.dll.config
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\bin\Debug\AdminDaLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\bin\Debug\AdminDaLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\bin\Debug\AdminBoLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\bin\Debug\EntityFramework.dll
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\bin\Debug\AdminBoLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\bin\Debug\AdminBoLayer.dll.config
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\bin\Debug\EntityFramework.xml
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\obj\Debug\AdminDaLayer.csprojAssemblyReference.cache
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\obj\Debug\AdminDaLayer.Migrations.help.resources
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\obj\Debug\AdminDaLayer.Migrations.Update_admin.resources
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\obj\Debug\AdminDaLayer.Migrations.SecurityQuestionAdded.resources
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\obj\Debug\AdminDaLayer.csproj.GenerateResource.cache
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\obj\Debug\AdminDaLayer.csproj.CoreCompileInputs.cache
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\obj\Debug\AdminDaLayer.csproj.CopyComplete
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\obj\Debug\AdminDaLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\AdminDaLayer\obj\Debug\AdminDaLayer.pdb

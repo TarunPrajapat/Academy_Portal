@@ -1,0 +1,56 @@
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\bin\Debug\EmployeeDaLayer.dll.config
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\bin\Debug\EmployeeDaLayer.dll
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\bin\Debug\EmployeeDaLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\bin\Debug\EmployeeBoLayer.dll
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\bin\Debug\EntityFramework.dll
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\bin\Debug\EmployeeBoLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\bin\Debug\EntityFramework.xml
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.csprojAssemblyReference.cache
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.csproj.CopyComplete
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.dll
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.Migrations.InitialCreate.resources
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.csproj.GenerateResource.cache
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.Migrations.initial.resources
+F:\Visual Studio Projects\AcademyPortal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.Migrations.Update_employee.resources
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\bin\Debug\EmployeeDaLayer.dll.config
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\bin\Debug\EmployeeDaLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\bin\Debug\EmployeeDaLayer.pdb
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\bin\Debug\EmployeeBoLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\bin\Debug\EntityFramework.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\bin\Debug\EmployeeBoLayer.pdb
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\bin\Debug\EntityFramework.xml
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.csprojAssemblyReference.cache
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.Migrations.InitialCreate.resources
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.Migrations.initial.resources
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.Migrations.Update_employee.resources
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.csproj.GenerateResource.cache
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.csproj.CopyComplete
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.pdb
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.Migrations.SwcurityQuestionAdded.resources
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\bin\Debug\EmployeeDaLayer.dll.config
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\bin\Debug\EmployeeDaLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\bin\Debug\EmployeeDaLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\bin\Debug\EmployeeBoLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\bin\Debug\EntityFramework.dll
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\bin\Debug\EmployeeBoLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\bin\Debug\EntityFramework.xml
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.csprojAssemblyReference.cache
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.Migrations.InitialCreate.resources
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.Migrations.initial.resources
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.Migrations.Update_employee.resources
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.Migrations.SwcurityQuestionAdded.resources
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.csproj.GenerateResource.cache
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.csproj.CoreCompileInputs.cache
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.csproj.CopyComplete
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\EmployeeDaLayer\obj\Debug\EmployeeDaLayer.pdb

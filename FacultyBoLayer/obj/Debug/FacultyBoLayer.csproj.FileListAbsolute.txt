@@ -1,0 +1,17 @@
+F:\Visual Studio Projects\AcademyPortal\FacultyBoLayer\bin\Debug\FacultyBoLayer.dll
+F:\Visual Studio Projects\AcademyPortal\FacultyBoLayer\bin\Debug\FacultyBoLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\FacultyBoLayer\obj\Debug\FacultyBoLayer.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\AcademyPortal\FacultyBoLayer\obj\Debug\FacultyBoLayer.dll
+F:\Visual Studio Projects\AcademyPortal\FacultyBoLayer\obj\Debug\FacultyBoLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\FacultyBoLayer\obj\Debug\FacultyBoLayer.csprojAssemblyReference.cache
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyBoLayer\bin\Debug\FacultyBoLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyBoLayer\bin\Debug\FacultyBoLayer.pdb
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyBoLayer\obj\Debug\FacultyBoLayer.csprojAssemblyReference.cache
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyBoLayer\obj\Debug\FacultyBoLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyBoLayer\obj\Debug\FacultyBoLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyBoLayer\obj\Debug\FacultyBoLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyBoLayer\bin\Debug\FacultyBoLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyBoLayer\bin\Debug\FacultyBoLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyBoLayer\obj\Debug\FacultyBoLayer.csproj.CoreCompileInputs.cache
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyBoLayer\obj\Debug\FacultyBoLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyBoLayer\obj\Debug\FacultyBoLayer.pdb

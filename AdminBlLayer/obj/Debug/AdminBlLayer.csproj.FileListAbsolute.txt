@@ -1,0 +1,78 @@
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\AdminBlLayer.dll.config
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\AdminBlLayer.dll
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\AdminBlLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\AdminBoLayer.dll
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\AdminDaLayer.dll
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\EntityFramework.dll
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\AdminBoLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\AdminDaLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\AdminDaLayer.dll.config
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\EntityFramework.xml
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\obj\Debug\AdminBlLayer.csprojAssemblyReference.cache
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\obj\Debug\AdminBlLayer.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\obj\Debug\AdminBlLayer.csproj.CopyComplete
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\obj\Debug\AdminBlLayer.dll
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\obj\Debug\AdminBlLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\AdminBoLayer.dll.config
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\EmployeeBlLayer.dll
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\EmployeeBoLayer.dll
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\EmployeeDaLayer.dll
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\EmployeeBlLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\EmployeeBlLayer.dll.config
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\EmployeeBoLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\EmployeeDaLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\AdminBlLayer\bin\Debug\EmployeeDaLayer.dll.config
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\AdminBlLayer.dll.config
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\AdminBlLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\AdminBlLayer.pdb
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\AdminBoLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\AdminDaLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\EmployeeBlLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\EmployeeBoLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\EmployeeDaLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\EntityFramework.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\AdminBoLayer.pdb
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\AdminBoLayer.dll.config
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\AdminDaLayer.pdb
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\AdminDaLayer.dll.config
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\EmployeeBlLayer.pdb
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\EmployeeBlLayer.dll.config
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\EmployeeBoLayer.pdb
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\EmployeeDaLayer.pdb
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\EmployeeDaLayer.dll.config
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\EntityFramework.xml
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\obj\Debug\AdminBlLayer.csprojAssemblyReference.cache
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\obj\Debug\AdminBlLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\obj\Debug\AdminBlLayer.csproj.CopyComplete
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\obj\Debug\AdminBlLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\AdminBlLayer\obj\Debug\AdminBlLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\AdminBlLayer.dll.config
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\AdminBlLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\AdminBlLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\AdminBoLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\AdminDaLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\EmployeeBlLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\EmployeeBoLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\EmployeeDaLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\EntityFramework.dll
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\AdminBoLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\AdminBoLayer.dll.config
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\AdminDaLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\AdminDaLayer.dll.config
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\EmployeeBlLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\EmployeeBlLayer.dll.config
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\EmployeeBoLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\EmployeeDaLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\EmployeeDaLayer.dll.config
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\EntityFramework.xml
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\obj\Debug\AdminBlLayer.csprojAssemblyReference.cache
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\obj\Debug\AdminBlLayer.csproj.CoreCompileInputs.cache
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\obj\Debug\AdminBlLayer.csproj.CopyComplete
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\obj\Debug\AdminBlLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\AdminBlLayer\obj\Debug\AdminBlLayer.pdb

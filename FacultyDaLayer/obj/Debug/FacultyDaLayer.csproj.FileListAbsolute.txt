@@ -1,0 +1,54 @@
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\bin\Debug\FacultyDaLayer.dll.config
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\bin\Debug\FacultyDaLayer.dll
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\bin\Debug\FacultyDaLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\bin\Debug\EntityFramework.dll
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\bin\Debug\FacultyBoLayer.dll
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\bin\Debug\FacultyBoLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\bin\Debug\EntityFramework.xml
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\obj\Debug\FacultyDaLayer.csprojAssemblyReference.cache
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\obj\Debug\FacultyDaLayer.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\obj\Debug\FacultyDaLayer.csproj.CopyComplete
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\obj\Debug\FacultyDaLayer.dll
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\obj\Debug\FacultyDaLayer.pdb
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\obj\Debug\FacultyDaLayer.Migrations.InitialCreate.resources
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\obj\Debug\FacultyDaLayer.csproj.GenerateResource.cache
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\obj\Debug\FacultyDaLayer.Migrations.initial.resources
+F:\Visual Studio Projects\AcademyPortal\FacultyDaLayer\obj\Debug\FacultyDaLayer.Migrations.add_update.resources
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\bin\Debug\FacultyDaLayer.dll.config
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\bin\Debug\FacultyDaLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\bin\Debug\FacultyDaLayer.pdb
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\bin\Debug\EntityFramework.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\bin\Debug\FacultyBoLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\bin\Debug\FacultyBoLayer.pdb
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\bin\Debug\EntityFramework.xml
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\obj\Debug\FacultyDaLayer.csprojAssemblyReference.cache
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\obj\Debug\FacultyDaLayer.Migrations.InitialCreate.resources
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\obj\Debug\FacultyDaLayer.Migrations.initial.resources
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\obj\Debug\FacultyDaLayer.Migrations.add_update.resources
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\obj\Debug\FacultyDaLayer.csproj.GenerateResource.cache
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\obj\Debug\FacultyDaLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\obj\Debug\FacultyDaLayer.csproj.CopyComplete
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\obj\Debug\FacultyDaLayer.dll
+C:\Users\Vipin singh\Desktop\CTS\FinalProject\academyportal\FacultyDaLayer\obj\Debug\FacultyDaLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\bin\Debug\FacultyDaLayer.dll.config
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\bin\Debug\FacultyDaLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\bin\Debug\FacultyDaLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\bin\Debug\EntityFramework.dll
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\bin\Debug\FacultyBoLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\bin\Debug\FacultyBoLayer.pdb
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\bin\Debug\EntityFramework.xml
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\obj\Debug\FacultyDaLayer.csprojAssemblyReference.cache
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\obj\Debug\FacultyDaLayer.Migrations.InitialCreate.resources
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\obj\Debug\FacultyDaLayer.Migrations.initial.resources
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\obj\Debug\FacultyDaLayer.Migrations.add_update.resources
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\obj\Debug\FacultyDaLayer.csproj.GenerateResource.cache
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\obj\Debug\FacultyDaLayer.csproj.CoreCompileInputs.cache
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\obj\Debug\FacultyDaLayer.csproj.CopyComplete
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\obj\Debug\FacultyDaLayer.dll
+F:\CTS-Training\Project\final project\academy_portal-master\FacultyDaLayer\obj\Debug\FacultyDaLayer.pdb
